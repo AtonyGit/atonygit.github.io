@@ -15167,7 +15167,7 @@ const N3 = [{
         isPublic: !0,
         directory: "pp2/earwax"
     }, {
-        name: "Bidiots",
+        name: "Bidtards (Bidiots)",
         tag: "auction",
         wrapper: "marionette",
         isPublic: !0,
@@ -15225,7 +15225,7 @@ const N3 = [{
         isPublic: !0,
         directory: "pp4/fibbage3"
     }, {
-        name: "Survive the Internet",
+        name: "Average Twitter Sim (Survive the Internet)",
         tag: "survivetheinternet",
         wrapper: "marionette",
         isPublic: !0,
@@ -15327,7 +15327,7 @@ const N3 = [{
         directory: "pp6/pushthebutton",
         categoryId: "PushTheButtonGame"
     }, {
-        name: "Talking Points",
+        name: "Shitpost Points (Talking Points)",
         tag: "jackbox-talks",
         wrapper: "marionette",
         isPublic: !0,
@@ -15335,7 +15335,7 @@ const N3 = [{
         features: ["camera", "moderation"],
         categoryId: "JackboxTalksGame"
     }, {
-        name: "Quiplash 3",
+        name: "Quiplash Plus (Quiplash 3)",
         tag: "quiplash3",
         wrapper: "marionette",
         isPublic: !0,
@@ -15367,7 +15367,7 @@ const N3 = [{
         directory: "pp7/blanky-blank",
         categoryId: "BlankyBlankGame"
     }, {
-        name: "Job Job",
+        name: "Fuck Fuck (Job Job)",
         tag: "apply-yourself",
         wrapper: "vue",
         isPublic: !0,
@@ -15405,7 +15405,7 @@ const N3 = [{
         categoryId: "MurderDetectivesGame",
         features: ["moderation"]
     }, {
-        name: "Quiplash 3",
+        name: "Quiplash Plus (Quiplash 3)",
         tag: "quiplash3-tjsp",
         wrapper: "vue",
         isPublic: !0,
@@ -15429,7 +15429,7 @@ const N3 = [{
         directory: "tjsp/triviadeath2",
         categoryId: "TriviaMurderParty2Game"
     }, {
-        name: "Fibbage 4",
+        name: "Pokége (Fibbage 4)",
         tag: "fourbage",
         wrapper: "vue",
         isPublic: !0,
